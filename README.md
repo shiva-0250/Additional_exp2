@@ -59,4 +59,4 @@ class Fibonacci {
 }
 ```
 # OUTPUT:
-![output of addexp2](addexp2)
+![output of addexp2](addexp2.png)
